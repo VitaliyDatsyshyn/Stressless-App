@@ -1,0 +1,8 @@
+componentType: pubsub.azure.servicebus.queues
+version: v1
+metadata:
+- name: connectionString
+  secretRef: connection-string
+secrets:
+- name: connection-string
+  value: "CONNECTION_STRING"

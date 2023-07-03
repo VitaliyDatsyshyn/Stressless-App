@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "StresslessApp.FeedbackCollector": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7203"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
